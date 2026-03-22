@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Rental Pro",
+  "short_name": "L-Rental",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0077b5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
